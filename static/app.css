@@ -1,0 +1,18 @@
+#prompts {
+    background-color: rgb(171, 61, 219);
+    color: rgb(231, 217, 235);
+}
+
+button {
+    padding: 5px;
+    background-color: rgb(224, 205, 241);
+    color:black;
+    font-family: fantasy;
+}
+
+#story {
+    background-color: rgb(54, 45, 62);
+    color:rgb(197, 149, 241);
+    font-family: fantasy;
+    font-size: 2em;
+}
